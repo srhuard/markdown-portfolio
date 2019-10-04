@@ -1,1 +1,1 @@
-[GitHub Profile] (https://yahoo.com)
+[GitHub](http://github.com)
